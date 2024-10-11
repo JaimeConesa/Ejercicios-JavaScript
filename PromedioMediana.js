@@ -1,3 +1,8 @@
+/*
+Implementa una función que reciba un array de números y calcule el
+promedio y la mediana. Usa una función sort para ordenar los números antes de
+calcular la mediana.
+*/
 function calcularPromedio(numeros=[]){
     let total = 0;
     let promedio = 0;
