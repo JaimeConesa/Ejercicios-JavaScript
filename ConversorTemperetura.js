@@ -22,4 +22,4 @@ function ConversorTemperatura(temperatura,escala){
         console.log("Eso no va");
     }
 }
-ConversorTemperatura("w", "F");
+ConversorTemperatura(7, "F");
