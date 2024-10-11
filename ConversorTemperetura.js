@@ -1,4 +1,8 @@
-
+/*
+Crea una función que convierta una temperatura dada en grados
+Celsius a Fahrenheit y viceversa. Usa el parámetro de una función para determinar
+la dirección de la conversión.
+*/
 console.log("Escribe F si quieres ver la temperatura en  Fahrenheit o C para verla en Celsius");
 function ConversorTemperatura(temperatura,escala){
     try{
