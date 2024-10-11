@@ -1,3 +1,8 @@
+/*
+Implementa un sistema de carrito de compras donde se puedan
+agregar productos con un nombre, precio y cantidad. El programa debe calcular el
+total del carrito y mostrar todos los productos en el carrito utilizando funciones.
+*/
 let carrito = [];
 function agregarProducto(nombre, precio, cantidad) {
         if (typeof nombre !== 'string'){
