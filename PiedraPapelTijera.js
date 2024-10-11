@@ -1,3 +1,8 @@
+/*
+Descripción: Implementa el clásico juego de "Piedra, Papel o Tijeras" donde el
+usuario juega contra la computadora. Usa prompt para recibir la jugada del usuario
+y Math.random() para la jugada de la computadora.
+*/
 function eleccionUsuario(opcionMano){
     opcionMano = prompt("Escribe : Piedra, papel o tijera");
     return opcionMano;
